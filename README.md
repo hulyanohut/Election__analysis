@@ -1,6 +1,6 @@
 # Election__analysis
 
-Create an Election Analysis "PyPoll" with 
+Create an Election Analysis "PyPoll" with Python
 
 # Overview of Project
 
@@ -14,7 +14,8 @@ The county with the highest turnout
 
 Data Source: election_results.csv
 Software:  3.9, Visual Studio Code
-#Analysis and Challenges
+
+# Analysis and Challenges
 
 In this project, our final  script will need to be able to deliver the following information when the script is run:
 
@@ -52,4 +53,4 @@ Raymon Anthony Doane candidate has 3.1% total percentage with a total votes of 1
 
 Diana DeGette won the election, with a total votes of 272,892
 In addition, Diana DeGette has the total percentage votes of 73.8%
-Diana DeGette is the Winner!
+## Diana DeGette is the Winner!
