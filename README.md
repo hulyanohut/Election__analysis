@@ -13,6 +13,7 @@ The county with the highest turnout
 # Resources
 
 Data Source: election_results.csv
+
 Software:  3.9, Visual Studio Code
 
 # Analysis and Challenges
