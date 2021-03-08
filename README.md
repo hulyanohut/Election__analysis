@@ -1,6 +1,6 @@
 # Election__analysis
 
-Create an Election Analysis "PyPoll" with Python
+Create an Election Analysis "PyPoll" with 
 
 # Overview of Project
 
@@ -50,6 +50,7 @@ Diana DeGette candidate has the 73.8 total percentage with a total votes of 272,
 Raymon Anthony Doane candidate has 3.1% total percentage with a total votes of 11,606
 5)Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
    Election Results:
+   ![Election__analysis](Election__analysis.png.svg.png)
 
 Diana DeGette won the election, with a total votes of 272,892
 In addition, Diana DeGette has the total percentage votes of 73.8%
